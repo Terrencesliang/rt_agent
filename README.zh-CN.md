@@ -114,7 +114,7 @@ pnpm test
 
 ## 项目预览图
 
-![preview1.png](./src/assets/docs/1.png)
-![preview2.png](./src/assets/docs/2.png)
-![preview3.png](./src/assets/docs/3.png)
+![preview1.png](./fufan-chat-web-main/src/assets/docs/1.png)
+![preview2.png](./fufan-chat-web-main/src/assets/docs/2.png)
+![preview3.png](./fufan-chat-web-main/src/assets/docs/3.png)
 
