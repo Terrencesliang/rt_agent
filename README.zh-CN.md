@@ -112,9 +112,9 @@ pnpm test
 - `types` 类型定义文件更改
 - `wip` 开发中
 
-<!-- ## 项目预览图
+## 项目预览图
 
 ![preview1.png](./src/assets/docs/1.png)
 ![preview2.png](./src/assets/docs/2.png)
-![preview3.png](./src/assets/docs/3.png) -->
+![preview3.png](./src/assets/docs/3.png)
 
