@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Chat Logo" width="120" height="120" src="./src/assets/layouts/icons8-chatgpt-192.png">
+  <img alt="Chat Logo" width="120" height="120" src="./fufan-chat-web-main/src/assets/layouts/icons8-chatgpt-192.png">
   <h1>Chat</h1>
   <span><a href="./README.md">English</a> | 中文</span>
 </div>
